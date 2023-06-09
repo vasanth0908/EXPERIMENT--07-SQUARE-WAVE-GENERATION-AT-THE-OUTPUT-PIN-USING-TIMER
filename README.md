@@ -369,8 +369,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+
+![exp 7 1](https://github.com/vasanth0908/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/122000018/64b17d8f-2917-4875-affb-b3b87494ba74)
+
+
 ## PLUSE AT 500:
-![36](https://github.com/vasanth0908/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/122000018/f67d9c9f-a791-428e-80bc-d086d37f44d8)
+![1](https://github.com/vasanth0908/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/122000018/27a1ae6e-47c6-4f08-b164-80b0b44d6f37)
+
 TON = 2ms TOFF=2ms TOTAL TIME = 4ms FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
 
 ## PLUSE AT 700:
